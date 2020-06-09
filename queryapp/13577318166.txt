@@ -1,0 +1,50 @@
+10.1.99.2 | FAILED | rc=1 >>
+gzip: /usr/local/vvm/logs/mtsmsgw/2020-04-24.tar.gz: No such file or directory
+10.1.99.3 | FAILED | rc=1 >>
+gzip: /usr/local/vvm/logs/mtsmsgw/2020-04-24.tar.gz: No such file or directory
+10.1.99.5 | FAILED | rc=1 >>
+gzip: /usr/local/vvm/logs/mtsmsgw/2020-04-24.tar.gz: No such file or directory
+10.1.99.41 | FAILED | rc=1 >>
+gzip: /usr/local/vvm/logs/mtsmsgw/2020-04-24.tar.gz: No such file or directory
+10.1.99.34 | FAILED | rc=1 >>
+gzip: /usr/local/vvm/logs/mtsmsgw/2020-04-24.tar.gz: No such file or directory
+10.1.99.181 | FAILED | rc=1 >>
+
+10.1.99.1 | FAILED | rc=1 >>
+
+10.1.99.35 | FAILED | rc=1 >>
+
+10.1.99.7 | FAILED | rc=1 >>
+
+10.1.99.6 | FAILED | rc=1 >>
+
+10.1.99.182 | FAILED | rc=1 >>
+
+10.1.99.21 | FAILED | rc=1 >>
+gzip: /usr/local/vvm/logs/mtsmsgw/2020-04-24.tar.gz: No such file or directory
+10.1.99.184 | FAILED | rc=1 >>
+
+10.1.99.183 | FAILED | rc=1 >>
+
+10.1.99.22 | FAILED | rc=1 >>
+
+10.1.99.20 | FAILED | rc=1 >>
+
+10.1.99.27 | FAILED | rc=1 >>
+
+10.1.99.23 | FAILED | rc=1 >>
+
+10.1.99.24 | FAILED | rc=1 >>
+
+10.1.99.117 | FAILED | rc=1 >>
+gzip: /usr/local/vvm/logs/mtsmsgw/2020-04-24.tar.gz: No such file or directory
+10.1.99.118 | FAILED | rc=1 >>
+gzip: /usr/local/vvm/logs/mtsmsgw/2020-04-24.tar.gz: No such file or directory
+10.1.99.29 | FAILED | rc=1 >>
+
+10.1.99.84 | FAILED | rc=1 >>
+
+10.1.99.85 | FAILED | rc=1 >>
+
+10.1.99.112 | FAILED | rc=1 >>
+
